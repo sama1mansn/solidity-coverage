@@ -39,7 +39,7 @@
     "mocha": "7.1.2",
     "node-emoji": "^1.10.0",
     "pify": "^4.0.1",
-    "recursive-readdir": "^2.2.2",
+    "recursive-readdir": "^2.6.8",
     "sc-istanbul": "^0.4.5",
     "semver": "^7.3.4",
     "shelljs": "^0.8.3",
